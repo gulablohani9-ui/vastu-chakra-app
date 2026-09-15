@@ -1,0 +1,9 @@
+"dependencies": {
+  "expo": "~51.0.0",
+  "react": "18.2.0",
+  "react-native": "0.74.1",
+  "react-native-svg": "15.2.0",
+  "expo-print": "~13.0.1",
+  "expo-sharing": "~12.0.1",
+  "AsyncStorage": "react-native-async-storage/async-storage"
+}
